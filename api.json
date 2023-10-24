@@ -1,0 +1,22 @@
+{
+    "produtos": [
+        {
+            "imagePath": "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?auto=format&fit=crop&q=80&w=1780&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "nome": "cupcake",
+            "preco": 14 ,
+            "id": 1
+        },
+        {
+            "imagePath": "https://images.unsplash.com/photo-1554298128-c916518a4b34?auto=format&fit=crop&q=80&w=1936&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "nome": "torta doce pedaço",
+            "preco": 19,
+            "id": 2
+        },
+        {
+            "imagePath": "https://images.unsplash.com/photo-1636743715220-d8f8dd900b87?auto=format&fit=crop&q=80&w=1885&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "nome": "brownie",
+            "preco": 90,
+            "id": 3
+        }
+    ]
+}
