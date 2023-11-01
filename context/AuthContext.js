@@ -10,6 +10,7 @@ export function AuthProvider({children}){
    async function login(credenciais){
      const resp = await axios.get("http://localhost:3000/usuarios")
      const usuarios = resp.data
+     console.log('usuarios', usuarios)
      const usuario = usuarios.find(u => u.email === credenciais.email)
      if (usuario?.senha === credenciais.senha){
         setUsername(usuario.nome)
